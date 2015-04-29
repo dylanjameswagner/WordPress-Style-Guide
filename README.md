@@ -1,3 +1,14 @@
 # WordPress Style Guide
 
 Copy-paste the source of the page.html into the text editor of a page in WordPress.
+
+## TODO
+- posibly create section headers
+- posibly create descriptive text explaining what each section is
+- possibly borrow from 'kitchen sink' markup
+- possibily rename 'Style Guide' to 'Content Guide' or 'Comprehensive Markup' or similar
+- create post version
+- create paginated page version
+- orgainzie image section
+- create gallery section
+- create form section
