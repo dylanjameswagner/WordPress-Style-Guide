@@ -1,6 +1,6 @@
 # WordPress Style Guide
 
-Copy-paste the source of the page.html into the text editor of a page in WordPress.
+Copy-paste the source of the page.html into a text editor view of a WordPress page.
 
 ## TODO
 - posibly create section headers
